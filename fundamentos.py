@@ -56,10 +56,6 @@ y no se va a ejecutar
 # print(f)
 
 subir = "se va actualizar este archivo en mi github"
-subir = "actualizar a github otra vez"
-subir = "actualizar a github otra vez"
-subir = "actualizar nuevamente"
-
 
 
 
