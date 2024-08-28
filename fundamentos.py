@@ -55,8 +55,6 @@ y no se va a ejecutar
 # print(b)
 # print(f)
 
-subir = "se va actualizar este archivo en mi github"
-
 
 
 
