@@ -83,3 +83,12 @@ solicitar los datos al usuario
 """
 
 inventario = {}
+
+"""Ejemplo Práctico: CRUD para un Directorio de Contactos
+Vamos a implementar las operaciones básicas de un CRUD:
+
+Crear: Agregar un nuevo contacto.
+Leer: Mostrar los contactos existentes.
+Actualizar: Modificar el número de teléfono de un contacto existente.
+Eliminar: Borrar un contacto del directorio.
+solicitando los datos al usuario"""
